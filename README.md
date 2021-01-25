@@ -1,3 +1,8 @@
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lcarnevale" alt="https://github.com/lcarnevale" />
+</p> -->
+
+
 <p align="center">
   <font size="4">
   Hi there, I'm Lorenzo Carnevale. <br>
