@@ -5,7 +5,7 @@
 <p align="center">
   <font size="4">
   Hi there, I'm Lorenzo Carnevale. <br>
-  I am a Researcher at University of Messina, fully focused on Collaborative Intelligence on the edge. I am currently working on self-configured Mesh Networks as the basis for Artificial Swarm Intelligence.
+  I am a Researcher at University of Messina, fully focused on Collective Intelligence on the edge. I am currently working on self-configured Mesh Networks as the basis for Artificial Swarm Intelligence.
   </font>
 </p>
 
