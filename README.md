@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  resume | <a href="https://github.com/lcarnevale/publications-list">publications</a> | blogs
+  resume | <a href="https://github.com/lcarnevale/publications-list">publications</a> | <a href="https://lcarnevale.medium.com">blogs</a>
 </p>
 
 <p align="center">
