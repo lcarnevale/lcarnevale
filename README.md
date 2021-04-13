@@ -41,3 +41,8 @@
   </a> -->
 
 </p>
+
+### Call for Papers
+- The IEEE Conference on ICT Solutions for eHealth  (papers submission: July 1, 2021)
+- The 1st International Workshop on "Distributed and Intelligent Systems (DaIS)" (papers submission: July 1, 2021)
+- Special Issue "Artificial Intelligence on the Edge" (deadline: August 31, 2021)
