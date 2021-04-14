@@ -21,7 +21,7 @@
   
   <!-- Google Scholar -->
   <!-- <a href="https://scholar.google.it/citations?hl=it&user=_5EzmTwAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
-    <img src="https://img.shields.io/badge/google%20scholar-%230077B5.svg?&style=for-the-badge&logo=google%20scholar&logoColor=white&color=071A2C" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/google%20scholar-%230077B5.svg?&style=for-the-badge&logo=google%20scholar&logoColor=white&color=071A2C" alt="Google Scholar"/>
   </a> -->
   
   <!-- Google Scholar -->
@@ -35,7 +35,7 @@
   
   <!-- Orcid -->
   <a href="https://orcid.org/0000-0002-1349-341X" target="_blank">
-    <img src="https://img.shields.io/badge/orcid-%230077B5.svg?&style=for-the-badge&logo=orcid&logoColor=white&color=071A2C" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/orcid-%230077B5.svg?&style=for-the-badge&logo=orcid&logoColor=white&color=071A2C" alt="Orcid"/>
   </a>
   
   <!-- LinkedIn -->
