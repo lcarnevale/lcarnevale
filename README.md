@@ -19,10 +19,10 @@
 
 <p align="center">
   
-  <!-- Google Scholar -->
-  <!-- <a href="https://scholar.google.it/citations?hl=it&user=_5EzmTwAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
-    <img src="https://img.shields.io/badge/google%20scholar-%230077B5.svg?&style=for-the-badge&logo=google%20scholar&logoColor=white&color=071A2C" alt="Google Scholar"/>
-  </a> -->
+  <!-- Scopus -->
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=57195963279" target="_blank">
+    <img src="https://img.shields.io/badge/scopus-%230077B5.svg?&style=for-the-badge&logo=scopus&logoColor=white&color=071A2C" alt="Scopus"/>
+  </a>
   
   <!-- Google Scholar -->
   <a href="https://scholar.google.it/citations?hl=it&user=_5EzmTwAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
