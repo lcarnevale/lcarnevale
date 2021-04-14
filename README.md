@@ -43,6 +43,6 @@
 </p>
 
 ### Call for Papers
-- The IEEE Conference on ICT Solutions for eHealth | [[CfP](https://fcrlab.unime.it/calls/icts4eHealth2021)] | (papers submission: July 1, 2021)
-- The 1st International Workshop on "Distributed and Intelligent Systems (DaIS)" | [[CfP](https://fcrlab.unime.it/calls/dais2021)] | (papers submission: July 1, 2021)
-- Special Issue "Artificial Intelligence on the Edge" | [[CfP](https://fcrlab.unime.it/calls/artificial-intelligence-in-the-edge)] | (deadline: August 31, 2021)
+- The IEEE Conference on [ICT Solutions for eHealth](https://fcrlab.unime.it/calls/icts4eHealth2021)
+- The 1st IEEE International Workshop on "[Distributed and Intelligent Systems (DaIS)](https://fcrlab.unime.it/calls/dais2021)"
+- Special Issue "[Artificial Intelligence on the Edge](https://fcrlab.unime.it/calls/artificial-intelligence-in-the-edge)", Information, MDPI
