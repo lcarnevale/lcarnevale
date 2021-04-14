@@ -4,8 +4,11 @@
 
 <p align="center">
   <font size="4">
-    Hi there, I'm Lorenzo Carnevale. <br>
-    I am currently a Research Fellow in <a href="https://fcrlab.unime.it/">FCRLab</a> at <a href="https://international.unime.it/">University of Messina</a>. I earned my Ph.D. in the Department of Computer Science under the supervision of <a href="https://www.scopus.com/authid/detail.uri?authorId=12645423500">Professor Massimo Villari</a> in May 2020. My research interests include Artificial Intelligence, Intelligent Systems, Cloud/Edge Computing, Distributed Systems, Internet of Things and Robotic. My current research focuses on collaborative and collective intelligence and self-organization.
+    Hi there, I'm Lorenzo Carnevale. <br><br>
+    I am currently a Research Fellow in <a href="https://fcrlab.unime.it/">FCRLab</a> at <a href="https://international.unime.it/">University of Messina</a>. I earned my Ph.D. in the Department of Computer Science under the supervision of <a href="https://www.scopus.com/authid/detail.uri?authorId=12645423500">Professor Massimo Villari</a> in May 2020. 
+    My research interests include Artificial Intelligence, Intelligent Systems, Cloud/Edge Computing, Distributed Systems, Internet of Things and Robotic. 
+    My current research focuses on collaborative and collective intelligence and self-organization. 
+    I am reviewer of respected Springer, IEEE and Elsevier Journals, and co-author of more than 20 manuscripts.
   </font>
 </p>
 
