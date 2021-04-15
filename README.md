@@ -51,7 +51,7 @@
 
 </p>
 
-<br><br>
+<br>
 
 ### Call for Papers
 ___
