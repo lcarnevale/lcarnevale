@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  resume | <a href="https://github.com/lcarnevale/publications-list">publications</a> | <a href="https://lcarnevale.medium.com">blogs</a>
+  resume | <a href="http://lorenzocarnevale.com/publications/">publications</a> | <a href="http://lorenzocarnevale.com/blog/">blogs</a>
 </p>
 
 <p align="center">
